@@ -6,7 +6,10 @@ This repository contains a project on time series forecasting using **Prophet** 
 - **Prophet**: Easy-to-use forecasting with seasonality and trend analysis.
 - **Statsmodels**: Advanced statistical modeling using ARIMA and SARIMA.
 - Comparative analysis of both methods.
+
 ## Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/Arnab-arp/Time-Series-Forecasting.git
+git clone https://github.com/yourusername/forecasting-project.git
+cd forecasting-project
+pip install -r requirements.txt
