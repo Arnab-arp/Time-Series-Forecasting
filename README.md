@@ -10,6 +10,6 @@ This repository contains a project on time series forecasting using **Prophet** 
 ## Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/forecasting-project.git
-cd forecasting-project
+git clone https://github.com/Arnab-apr/Time-Series-Forecasting.git
+cd Time-Series-Forecasting
 pip install -r requirements.txt
