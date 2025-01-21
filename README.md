@@ -4,7 +4,7 @@ This repository contains a project on time series forecasting using **Prophet** 
 
 ## Features
 - **Prophet**: Easy-to-use forecasting with seasonality and trend analysis.
-- **Statsmodels**: Advanced statistical modeling using ARIMA and SARIMA.
+- **Statsmodels**: Advanced statistical modeling using ARIMA.
 - Comparative analysis of both methods.
 
 ## Installation
